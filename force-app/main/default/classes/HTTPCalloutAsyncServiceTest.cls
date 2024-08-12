@@ -7,7 +7,7 @@
 *               Test Coverage:- HttpCalloutAsyncService.cls (100%)
 * Dependencies:- TestMetadata record in HTTPCalloutConfiguration__mdt
 * Contributors:-
-*    1. Rahul Malhotra
+*    Harshit
 */
 @isTest
 public class HTTPCalloutAsyncServiceTest {
